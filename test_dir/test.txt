@@ -1,0 +1,11 @@
+The quick brown fox jumps over the lazy dog.
+Fox and dog are natural enemies, but they can be friends!
+Foxes hunt at night while dogs sleep in their homes.
+Some say that brown dogs are the smartest breeds around.
+
+Foo is the bar best way to bat my biz bop!
+The bar shows how foo and baz work together.
+Neither foo nor bar appear in this line, but baz and bat do.
+This line has foo bar baz all together but no bat.
+Just biz and bop hanging out here.
+

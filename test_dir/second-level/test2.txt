@@ -1,0 +1,6 @@
+ Testing special chars: foo-bar, foo_bar, foo.bar, "foo bar"!
+Multiple    spaces   and   tabs   with   foo    bar.
+
+The quick brown fox named foo was friends with bar the dog, and they played bat and baz together.
+One day foo-bar went to the baz store to buy some bat supplies while biz and bop watched.
+The end of our foo and bar story about bat and baz friends who liked biz and bop.
